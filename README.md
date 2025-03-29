@@ -35,9 +35,7 @@
 - [🔗 Links](#-links)
 
 ## 🤖 Introduction
- **GPTSeek** - your next-generation AI Assistant! Powered by DeepSeek's cutting-edge API with streaming capabilities, this app delivers responses in real-time as they're generated. Built with React Native for cross-platform performance and seamless animations -> You can watch the tutorial by  <a href="https://www.youtube.com/channel/UC8TqNetLwAq57qcxFs2flVw" target="_blank"><b>Web Minds</b></a> - <a href="https://youtu.be/l-5X-6KCO8k" target="_blank">
-  <img src="https://i.ibb.co/pjNgwJsh/ai-assistant-img.png" alt="Watch Tutorial on YouTube" width="600">
-</a>
+ **GPTSeek** - your next-generation AI Assistant! Powered by DeepSeek's cutting-edge API with streaming capabilities, this app delivers responses in real-time as they're generated. Built with React Native for cross-platform performance and seamless animations -> You can watch the tutorial by  <a href="https://www.youtube.com/channel/UC8TqNetLwAq57qcxFs2flVw" target="_blank"><b>Web Minds</b></a> - <a href="https://youtu.be/LlfmFYDSn5I" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## ⚡ Key Advantages
 - **Real-time Streaming**: Get responses word-by-word as the AI generates them
@@ -76,12 +74,6 @@
 npm install
 ```
 
-```bash
-# Set up environment variables
-cp .env.example .env
-# Edit .env file with your API key
-```
-
 ### iOS Setup
 ```bash
 cd ios && pod install && cd ..
@@ -110,7 +102,7 @@ We welcome contributions! Please follow these steps:
 5. Open a Pull Request
 
 ## <a name="links">🔗 Links</a>
-- **API Documentation**: [DeepSeek API Docs](https://platform.deepseek.com/docs)
+- **API Documentation**: [DeepSeek API Docs](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free/api)
 - **React Native**: [React Native Docs](https://reactnative.dev/)
 - **NativeWind**: [Tailwind for React Native](https://www.nativewind.dev/)
 ```
