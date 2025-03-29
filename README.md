@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   <br />
-    <a href="https://bit.ly/3LboNOQ" target="_blank">
+    <a href="https://youtu.be/l-5X-6KCO8k" target="_blank">
       <img src="https://i.ibb.co/pjNgwJsh/ai-assistant-img.png" alt="Project Banner">
     </a>
   <br />
