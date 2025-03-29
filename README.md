@@ -2,11 +2,9 @@
 
 <div align="center">
   <br />
-  <br />
     <a href="https://youtu.be/l-5X-6KCO8k" target="_blank">
-      <img src="https://i.ibb.co/pjNgwJsh/ai-assistant-img.png" alt="Project Banner">
+      <img src="https://i.postimg.cc/QdnQGhVz/ai-assistant-img.png" alt="Project Banner">
     </a>
-  <br />
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" />
