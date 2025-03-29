@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/Abdullah0Dev/gptseek" target="_blank">
-      <img src="[https://i.postimg.cc/XYZ1234/gptseek-banner.pn](https://i.ibb.co/pjNgwJsh/ai-assistant-img.png" alt="GPTSeek Banner" width="600">
+      <img src="[https://i.ibb.co/pjNgwJsh/ai-assistant-img.png](https://i.ibb.co/pjNgwJsh/ai-assistant-img.png" alt="GPTSeek Banner" width="600">
     </a>
   <br />
   <div>
@@ -35,7 +35,8 @@
 - [🔗 Links](#-links)
 
 ## 🤖 Introduction
- **GPTSeek** - your next-generation AI Assistant! Powered by DeepSeek's cutting-edge API with streaming capabilities, this app delivers responses in real-time as they're generated. Built with React Native for cross-platform performance and seamless animations -> You can watch the tutorial by  <a href="https://www.youtube.com/channel/UC8TqNetLwAq57qcxFs2flVw" target="_blank"><b>Web Minds</b></a> - <a href="https://youtu.be/LlfmFYDSn5I" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+ **GPTSeek** - your next-generation AI Assistant! Powered by DeepSeek's cutting-edge API with streaming capabilities, this app delivers responses in real-time as they're generated. Built with React Native for cross-platform performance and seamless animations -> You can watch the tutorial by  <a href="https://www.youtube.com/channel/UC8TqNetLwAq57qcxFs2flVw" target="_blank"><b>Web Minds</b></a> If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+ <a href="https://youtu.be/LlfmFYDSn5I" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## ⚡ Key Advantages
 - **Real-time Streaming**: Get responses word-by-word as the AI generates them
